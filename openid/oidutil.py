@@ -23,7 +23,7 @@ xxe_safe_elementtree_modules = [
 elementtree_modules = [
     'xml.etree.cElementTree',
     'xml.etree.ElementTree',
-    'cElementTree',
+    # 'cElementTree',
     'elementtree.ElementTree',
 ]
 
